@@ -1,0 +1,120 @@
+body {
+    height: 100vh;
+}
+
+.jumbotron {
+    padding: 2rem;
+    margin-bottom: 100px;
+}
+
+.header h1 {
+    font-size: 60px;
+}
+
+
+/* teams logo */
+
+.logo {
+    height: 100px;
+    width: 100px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+    color: black;
+}
+
+.btn {
+    width: 200px;
+}
+
+
+/* width */
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+
+/* Track */
+
+ ::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+
+/* Handle */
+
+ ::-webkit-scrollbar-thumb {
+    background: #bfd2fb;
+    border-radius: 2px;
+}
+
+.main .row {
+    margin-bottom: 65px;
+}
+
+.row.screen-share {
+    margin-top: 50px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.col-4 h3 {
+    height: 70px;
+}
+
+.col-md-6 {
+    padding: 0 50px;
+}
+
+.footer {
+    margin-top: 75px;
+    padding: 50px 0;
+}
+
+.name {
+    font-size: 25px;
+}
+
+p {
+    margin-bottom: 0;
+    font-size: 17px;
+}
+
+.contacts div {
+    margin-bottom: 20px;
+}
+
+.contacts div a {
+    padding-right: 10px;
+    font-size: 20px;
+    color: black;
+}
+
+
+/* microsoft logo */
+
+.microsoft-logo {
+    height: 100px;
+    width: 150px
+}
+
+
+/* for error pages */
+
+.error h1 {
+    font-size: 120px;
+}
+
+.error h3 {
+    font-size: 35px;
+    margin: 40px 0;
+}
+
+.error p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}

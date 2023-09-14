@@ -1,0 +1,52 @@
+.form-group {
+    position: relative;
+}
+
+.share,
+#copyId,
+#copyUrl {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: min-content;
+    color: #9fa4a8;
+    background-color: white;
+    border-top-color: #ced4da;
+    border-bottom-color: #ced4da;
+    border-right-color: #ced4da;
+}
+
+.share:hover,
+#copyId:hover,
+#copyUrl:hover {
+    color: #53616e;
+}
+
+.share:focus {
+    box-shadow: none !important;
+}
+
+
+/*-----------  content  --------------*/
+
+.data {
+    margin-bottom: 50px;
+}
+
+.data .row {
+    margin-bottom: 10px;
+}
+
+.data i {
+    font-size: 30px;
+    color: #7c84ec;
+}
+
+.data .row .col-2 {
+    display: flex;
+    align-self: center;
+}
+
+.join h3 {
+    margin-bottom: 30px;
+}
